@@ -1,5 +1,12 @@
 @tool
 extends EditorPlugin
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#	Quick Folds
+#	https://github.com/CodeNameTwister/Quick-Folds
+#
+#	Script Spliter addon for godot 4
+#	author:		"Twister"
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 const KEYS : PackedInt32Array = [
 	KEY_1,
