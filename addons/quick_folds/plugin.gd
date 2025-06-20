@@ -4,7 +4,7 @@ extends EditorPlugin
 #	Quick Folds
 #	https://github.com/CodeNameTwister/Quick-Folds
 #
-#	Script Spliter addon for godot 4
+#	Quick-Folds addon for godot 4
 #	author:		"Twister"
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
