@@ -6,11 +6,11 @@ Tool addon for code editor in Godot 4
 Allow quick and custom folding for all lines in the editor using the keyboard.
 
 # How Work
-* Press *Atl + Num[0 - 9]* (start by number 1) to change fold level
+* Press **Atl + Num[0 - 9]** (start by number 1) to change fold level
 > Like American Keyboard from left to right: Atl + 1 , Atl + 2 ... Atl + 9, Atl + 0
 
 
-* (Inverted): Press *Shift + Num[0 - 9]* (start by number 1) to change inverted fold level
+* (Inverted): Press **Shift + Num[0 - 9]** (start by number 1) to change inverted fold level
 > Like American Keyboard from left to right: Shift + Atl + 1 , Shift + Atl + 2 ... Shift + Atl + 9, Shift + Atl + 0
 
 ### Quick Example:
