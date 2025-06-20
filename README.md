@@ -15,7 +15,7 @@ Allow quick and custom folding for all lines in the editor using the keyboard.
 
 ### Quick Example:
 
-* Atl + 1 for contrait all lines
+* Atl + 1 for collapse all lines
 * Shift + Atl + 1 for show all lines
 
 # Preview
